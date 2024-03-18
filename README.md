@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Manh Duong Duc!
+# 👋 Hello, I'm Manh Duong Van!
 
 Welcome to my GitHub profile! I'm a social science student but I'm passionate about coding too. Here's a bit about me:
 
